@@ -1,5 +1,5 @@
 # TERCER PROYECTO: ISNTAGRAM PHOTO FEED
-Para este proyecto hemos tenido que aplicar los conocimientos para cerar una imagen en una web en la que apareciesen varios posts, consiguiendo que a nivel visual apareciesen los <div> ordenados de modo descendete insertando una cabecera con el titulo BreathCode Photo Feed.
+Para este proyecto hemos tenido que aplicar los conocimientos para cerar una imagen en una web en la que apareciesen varios posts, consiguiendo que a nivel visual apareciesen los <div> ordenados de modo descendete insertando una cabecera con el titulo BreathCode Photo Feed. Para estructurarlos se han usado los valores de paddding, margin y box-sizing: sizing-box para darle el aspecto de post a los divs.
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
